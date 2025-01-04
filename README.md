@@ -67,5 +67,9 @@ To login, use the following credentials:
 ## credit
 - [framework laravel](https://laravel.com/)
 - [bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [Matrix Admin](https://matrixadmin.wrappixel.com/)
+
+Matrix Admin is used as the admin template for the dashboard and UI components.
+
 
 
