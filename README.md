@@ -59,10 +59,9 @@ You can now access the server at http://localhost:8000
 
 To login, use the following credentials:
 
-<ul>
-    <li><strong>Email:</strong> admin@gmail.com</li>
-    <li><strong>Password:</strong> P@55word</li>
-</ul>
+- Email: admin@gmail.com
+
+- Password: P@55word
 
 
 ## credit
