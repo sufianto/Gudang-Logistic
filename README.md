@@ -55,7 +55,8 @@ Start the local development server
 You can now access the server at http://localhost:8000
 
 ## Export Database
-The database schema and initial data can be found in the exported SQL file db_logistik_sufianto.sql. Import this file to your database to quickly set up the project.
+The database schema and initial data can be found in the exported SQL file db_logistik_sufianto.sql. 
+Import this file to your database to quickly set up the project.
 
 ## Login Credentials
 
