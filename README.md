@@ -18,11 +18,11 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    git clone https://github.com/sufianto/Aplikasi-Pembayaran-SPP.git
+    https://github.com/sufianto/Gudang-Logistic.git
 
 Switch to the repo folder
 
-    cd Aplikasi-Pembayaran-SPP
+    cd Gudang-Logistic
 
 Install all the dependencies using composer
 
@@ -36,7 +36,15 @@ Generate a new application key
 
     php artisan key:generate
 
-Run the database migrations (**Set the database connection in .env before migrating**)
+Run the database migrations (Set the database connection in .env before migrating)
+
+    php artisan migrate
+
+If you need to reset and refresh the database, run:
+
+    php artisan migrate:fresh
+
+Seed the database with initial data
 
     php artisan migrate --seed
 
@@ -45,6 +53,16 @@ Start the local development server
     php artisan serve
 
 You can now access the server at http://localhost:8000
+
+
+## Login Credentials
+
+To login, use the following credentials:
+
+<ul>
+    <li><strong>Email:</strong> admin@gmail.com</li>
+    <li><strong>Password:</strong> P@55word</li>
+</ul>
 
 
 ## credit
